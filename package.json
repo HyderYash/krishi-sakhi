@@ -5,8 +5,8 @@
   "type": "module",
   "description": "Malayalam-first AI farming assistant for Kerala farmers",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node init && vite",
+    "build": "node init && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
